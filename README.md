@@ -10,5 +10,4 @@ I Use [Trello](trello.com) to manage my tasks
 
 ## Tasks
 
-13.02.2024
-- [x] Create Trello board for the Project: [board](https://trello.com/b/ZrMUbPmA/devops-learning-plan)
+[TaksList](./Tasks.md)
